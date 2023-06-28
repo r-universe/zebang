@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tensorTS"]
 	path = tensorTS
 	url = https://github.com/zebang/tensorts
-	shallow = true
-	registered = true
